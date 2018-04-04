@@ -1,0 +1,3 @@
+com\shawearn\dubbo\provider\DubboProviderApplication.class
+com\shawearn\dubbo\provider\impl\TestServiceImpl.class
+com\shawearn\dubbo\remote\TestService.class
